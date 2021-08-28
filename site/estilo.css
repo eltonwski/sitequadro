@@ -1,25 +1,20 @@
-body{
-	background-color: black;
+.menu-01{
+    background-color: rgb(80, 31, 255);
+    height: 500px;
 }
 
-h3,p{
-	color: white;
+.conteudo-01{
+    color: white;
 }
 
-
-.margens{
-	margin-right: 20px;
+.conteudo-01>p{
+    font-size: 22px;
 }
-.texto{
-	text-align: center;
-}
-
-.imagens2{
-	padding: 15px;
+h1{
+    font-size: 35px;
 }
 
-@media (min-width: 991.98px) {
-.imagens2{
-	width: 800px;
-}
+.menu-contato{
+    background-color: rgb(80, 31, 255);
+    height: 240px;
 }
